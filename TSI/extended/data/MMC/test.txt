@@ -1,0 +1,153 @@
+Oliver’s family’s nightmare began when he caught a cold during the Christmas holidays while he was enjoying a trip to New York with his mum, step-dad David and sister Holly, seven	metaphorical	1
+Imagine a crowded rock concert. You are directly in front of the stage, but your cute date is stuck behind an enormous mass of moving people. As your date pushes and squeezes through the crowd, you worry about other attractive fans stealing your date's attention. Will your date make it through all those packed people? Believe it or not, this is an important question in cellular biology!	metaphorical	1
+NK cells are cells that can lyse a select group of cultured cell lines	literal	0
+On Twitter, he cited	metaphorical	1
+The RNA copy of DNA that is destined to form protein molecules is called messenger RNA (mRNA)	literal	0
+“It’s a little molecular switch [on the cell’s surface],” he said. “If you switch it on it does two things – it induces the cells to die, but it also provokes the body’s immune response to destroy the cancer.”	metaphorical	1
+The mechanism by which the normal p 21 product (expressed from the normal allele) and its intrinsic GTPase activity influence the signal transduction properties of the activated oncogene product is not yet understood	literal	0
+human cells become senescent	metaphorical	1
+[certain cells] can kill tumor cells but have no memory and no antigen-specific tumor recognition capacity.	metaphorical	1
+This activates a process termed signal transduction whereby specific signals are transmitted throughout the cell to the nucleus	literal	0
+GCN-4 is a transcriptional control element in yeast	literal	0
+if the antibody or ligand is coupled to a toxic agent, it may selectively kill the tumor cells in the metastatic foci.	literal	0
+some agents such as immune suppressants	metaphorical	1
+Much like Covid-19 that has been found to disproportionally kill and infect black and brown people, Kawasaki disease is also prevalent among African Americans	literal	0
+Doctors say there is no evidence the disease has spread elsewhere	literal	0
+Organisms responsible for bacteremia in profoundly neutropenic patients may be found colonizing various body sites before development of bacteremia	metaphorical	1
+the several-step sequence of tumor preduction	metaphorical	1
+cDNA libraries differ from genomic libraries by being limited to only the transcribed portion of genes and therefore are greatly reduced in sequence complexity	literal	0
+In 2015, Lisa Nicole Carson opened up about her battle with bipolar disorder, which sidelined her career for over a decade	metaphorical	1
+the ability of a carcinogenic agent to initiate cells may depend on the capacity of the cell to metabolize the agent to its ultimate carcinogenic form	literal	0
+Hi! I also have a strong family history of breast cancer (my mother, maternal aunts (two), maternal grandmother, and maternal great-aunt). My mother and I have tested negative for BRCA mutation. We likely have another unidentified mutation. I understand how hard it can be to decide where to go from here.	metaphorical	1
+two of its main activities [of the plasma membrane] are selective transport of molecules into and out of the cell	literal	0
+A polyadenylation signal is encoded in the DNA	literal	0
+which aims to raise awareness that the medications can simply be masking the pain rather than killing it	metaphorical	1
+Developing treatments that attack cancer cells but leave healthy tissue unharmed is the holy grail of cancer research	metaphorical	1
+It was ... I just ... I learned my strength.	metaphorical	1
+Imagine having the psychosis and having to have to go to hospital	literal	0
+If it is a recurrence that took a decade to form, “that tells me it’s not a very aggressive cancer,” he said	metaphorical	1
+Tumor cells must cross basement membranes to invade peripheral nerves ...	metaphorical	1
+the induction of cancer by three types of physical agents: ionizing radiation, ultraviolet radiation, and foreign bodies and fibers.	literal	0
+[of tumors] their intrinsic aggressiveness	metaphorical	1
+Part of me was frightened but there was another part that was fairly okay—I’ll get through this,you know and learn new things.	metaphorical	1
+NHS Blood and Transplant figures show about 3,000 lifesaving transplants were missed in the last year	literal	0
+cellular pedigree	metaphorical	1
+I had no choice but to stay up ... but one day I was kinda down.	metaphorical	1
+MY MOTHER fought cancer for almost a decade and died at 56.	metaphorical	1
+When “cheeky” Oliver Darlington came down with cold-like symptoms, his parents assumed it was nothing to worry about	literal	0
+As long as the part which one tolerates [that is, the margin of error] is small, the solution is quite correct and the person arriving at it is quite skilled. Therefore, artful conjecturing in medicine is similar	literal	0
+and the primary RNA transcript consists of a series of coding an noncoding regions.	literal	0
+(related to cancer) sharpening my weapons in case I have to do battle	metaphorical	1
+Toddlers have almost no control of what they feel and how they react. Sometimes, I notice myself reacting and in my head, I know it's irrational or due to an anxiety symptom, but I literally don't know how else to cope besides lashing out.	metaphorical	1
+the analogies between GCN-4, jun oncogene and Apl strongly suggest that one mechanism of oncogenesis may be a transcriptional element gone awry;	metaphorical	1
+A metastatic tumor cell, in order to be successful, must leave the primary tumor and invade local host tissue.	metaphorical	1
+At the invasion front tumor cells also invade preestablished host blood vessels	metaphorical	1
+transcriptional and posttranscriptional regulatory elements.	metaphorical	1
+It turned out that he found two new trouble spots.	literal	0
+cellular nutrition	metaphorical	1
+gag- or env-onc fusion products may serve to contribute to transforming potential by misdirecting an oncogene product to an improper cellular location	literal	0
+Meanwhile, the patient is given a dose of dengue fever, a disease normally carried by mosquitoes, before they are injected with the newly trained dendritic cells	metaphorical	1
+RNA polymerase begins transcription at a promoter initiation site that lies	literal	0
+The idea of that therapy really struck me as something I wanted.	metaphorical	1
+wedge-and-tongue-like tumor projections	metaphorical	1
+Hamm has also talked about the benefits of therapy and antidepressants in his battle with chronic depression	metaphorical	1
+the two-step process of carcinogenesis in vivo requires a promoter such as phorbol ester (TPA)	literal	0
+“I think the infection changes the innate immune cells from helping the tumours to killing them,”	literal	0
+the malignant behavior of these cells	metaphorical	1
+classical concepts of initiation - promotion and multistage carcinogenesis	literal	0
+Growth of more fastidious cells	metaphorical	1
+I am such a fighter	metaphorical	1
+spontaneous tumors	metaphorical	1
+If jammed, cancer cells are able to display..., they destroy ...	metaphorical	1
+...represents rather a short period in the total life history of a tumor	metaphorical	1
+Spontaneously initiated cells...may thus be considered the progenitors of spontaneous nepolasms	metaphorical	1
+cells have the capacity to call upon an adaptive, coordinated defense mechanism when assaulted by cyclotoxins. Once this program is turned on by one agent, it appears to be effective against others. Such a system may protect normal cells against environmental assault, but in cancer patients it appears to protect neoplastic cells against chemotherapeutic agents, which are also derived from environmental sources.	metaphorical	1
+The size of these seeds [of metastases]	metaphorical	1
+Tyler Smith , was diagnosed with chronic kidney disease in 2013 and had a transplant from his cousin in 2018, who is now the British and European men's physique bodybuilding champion	literal	0
+a six-base recognition restriction enzyme	literal	0
+The cells disregard one another and are seen as dense colonies in which cells cross over one another	metaphorical	1
+cell-cell interactions	metaphorical	1
+The 3' untranslated portion of the message	metaphorical	1
+How each cell---maintains its cellular function through its life	literal	0
+cells that immigrate from unirradiated adjacent areas	metaphorical	1
+Staff, mostly dressed in medical scrubs, neglected to mention any potential adverse events associated with stem cell transplants	metaphorical	1
+To tackle the problem, investigators have separated invasion and metastasis into a series of defined sequential steps and focused on one step at a time. For each step, new experimental models had to be developed, and a...	literal	0
+issues that are circumvented by the use of stems cells harvested from adult tissues	metaphorical	1
+These libraries are useful in providing amplified copies of specific sequences.	literal	0
+But where single cells are concerned, the decisive factor might be a change in the sensory world of these cells, manifesting itself as a loss of basement membrane perception	metaphorical	1
+...which is lethal for S-phase cells	metaphorical	1
+“We are seeing a range of illness; some people develop blood clots, others heart attacks or kidney failure,”	literal	0
+It [the cell] may divide, giving rise to one or more generations of daughter cells before some or all of the progeny become sterile. These colonies in which some reproductively viable progeny emerge may then regrow	metaphorical	1
+if they [cells] are starved for a nutrient	metaphorical	1
+thus sending a continuous signal to the cell along the mitogenic pathway	metaphorical	1
+In eukaryotes, the enzyme RNA polymerase II (RNA pol II) copies (transcribes) genes (DNA sequences) into messenger RNA (mRNA)	metaphorical	1
+Diabetes destroyer	metaphorical	1
+It was something that I didn’t want to be having as part of me.	metaphorical	1
+This is the idea that some parents are buying into when they perform vaginal seeding	metaphorical	1
+My cells need a little more nurturing right now.	metaphorical	1
+...it was hoped that ..., vaccination with antologous or allogeneic tumor cells of the same histologous type would force the immune apparatus to kill residual tumor cells	literal	0
+Some of the antigens can be stripped off the tumor cells by the antibody without interfering with the life of the cell	metaphorical	1
+You can probably get high blood pressure from one large fry at McDonald’s	literal	0
+such functional but sterile cells will nor appear different from fertile cells	literal	0
+DNA methylation may increase transcriptional activity of a gene	metaphorical	1
+what did i think all my normal little cells were doing after being hit by a sledgehammer of both toxic chemicals and radiation	metaphorical	1
+She and my dad had cancer at the same time. She survived. He didn't.	literal	0
+Chemical carcinogenesis is believed to be a two-step process consisting of an irreversible initiation event, followed by exposure to promoting agents.	literal	0
+the initiated cell survives	metaphorical	1
+The synthetic	literal	0
+providing the cell with the ability to withstand toxic agentd	metaphorical	1
+a layer of	metaphorical	1
+This variability of entry into S phase probably is a barrier to chemotherapy by cycle phase-specific drugs	metaphorical	1
+... cycling cells will continue in the proliferative cycle of be switched into G0	literal	0
+a single strand is copied from a primer molecule by DNA polymerase	metaphorical	1
+This allows the tumor to penetrate into and impinge directly on bone substance	metaphorical	1
+This result could be based on the poorer communication of tumor cells with their environments and with neighboring cells	metaphorical	1
+Difficulties in interpretation arise from the complexity of cell growth, with its multitude of biochemical reactions that are connected into a great metabolic network	literal	0
+It is unclear whether this happens because the virus attacks the kidneys directly – there is an abundance of ACE2 receptors within the organ	literal	0
+Antenatal depression and anxiety robbed me of my first pregnancy	metaphorical	1
+Neoplastic cells have changed so as to become	metaphorical	1
+RNA transcription	literal	0
+(related to cancer) do battle	metaphorical	1
+At all stages of the metastatic cascade, tumor cells must overcome host defenses	metaphorical	1
+You really do believe you are OK and you are as strong as you think you are.	literal	0
+A woman who needs reconstructive surgery after getting a tummy tuck and breast implants in Turkey has said she	literal	0
+Specific therapy against the causative organism [bacteria] should then be initiated, using an agent [antibiotic] shown to be active.	literal	0
+A couple of weeks later, I returned for a follow-up visit and the surgeon reported that the incision was healing nicely.	literal	0
+many old established [cell] lines	literal	0
+Another possible mechanism of action of tumour promoters ... is the inhibition of intercellular communication (metabolic cooperation) between cells in culture	literal	0
+Your husband sounds like a fighter which will hold him in good stead.	metaphorical	1
+cells not in cycle but able to be recruited into cycle	metaphorical	1
+DNase footprinting methods are used to identify the sequences in the specific binding region of DNA fragments.	literal	0
+I could claim that as a choice instead of say that I have to.	literal	0
+He said many other organs could be repaired or replaced	literal	0
+Today, we try to make a difference wherever we go.	metaphorical	1
+cells equipped with the capacities of survival and proliferation. Apparently this functional outfit is frequently confined to subsets of the original tumor cell population	metaphorical	1
+But the emotional side of cancer and of BC [breast cancer] in particular is the real killer—it strangles and shocks your soul.	metaphorical	1
+Another possible mechanism of action of tumor promoters...is the inhibition of intercellular communication (metabolic cooperation) between cells in culture	literal	0
+I feel such a failure that I am not winning this battle.	metaphorical	1
+It [Cancer] kinds brings ... it brought me to the kind of ... the edge of the abyss.	metaphorical	1
+I went online to read about my cancer and the treatment options available.	metaphorical	1
+Undermethylated DNA usually is transcriptionally active;	literal	0
+oncogenes can control expression of...and can alter their signaling pathways	metaphorical	1
+I had my appendix out and I remember I came round out of the anaesthetic screaming, the pain was something else.	literal	0
+...and therefore these cells will survive treatment	literal	0
+Vaccines are many months away and may well not be a silver bullet when they arrive	metaphorical	1
+You are such a fighter and so inspirational.	metaphorical	1
+Going through cancer changes you.	metaphorical	1
+Human faces have tremendous variability. This variability is genetic variability. As everyone knows, some people have blue eyes, white skin and square cheeks. The same genetic dynamic occurs with cancer cells, which are a part of the human body controlled by the genetic composition of that person. One of the reasons that cancer drugs work so poorly is that they don't account for the genetic profile of the individual patient. In a fashion, drug development consists of	metaphorical	1
+antineoplastic drugs	literal	0
+and the short fragments serve as	metaphorical	1
+She said it has ended a close relationship with a mental health nurse who had helped her over the last year to recover from an anxiety attack	literal	0
+the new DNA molecules, each consisting of a parent strand and ..., are partitioned to each daughter cell	metaphorical	1
+Insulin gene expression seems to be regulated via cellular second messengers	literal	0
+Normal cells may be able to continue proliferation in culture only for a limited number of generations	metaphorical	1
+The first approach consists in bolstering host defense mechanisms by vaccination	metaphorical	1
+Also it [the online forum] allows me to leave a record for my family, showing them how much I love them and how much I am fighting to stay with them for as long as possible.	literal	0
+“Patients ill in hospital with Covid are showing signs of significant heart and vascular problems,” said Prof Shah	literal	0
+the cells that can mediate the greatest killing	metaphorical	1
+T cells look for the presence of new antigens	literal	0
+A three-step hypothesis has been promosed to describe the sequence of biochemical events during tumor cell invasion of the extracellular matrix.	metaphorical	1
+A molecular diagnostic test (RT-PCR) to detect coronavirus in respiratory samples was developed very early by the Central Virology Laboratory	literal	0
+ask your chemo nurses or your specialist if your looking for anything that might be of help in your fight against cancer	metaphorical	1
+In the fight against high blood pressure, potassium is a powerful weapon	metaphorical	1
+It was a new role for me.	metaphorical	1
