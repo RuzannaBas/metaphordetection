@@ -1,0 +1,1311 @@
+She was not properly credited in the program	literal	0
+"In this beautiful book, all the place names are rubricated"	literal	0
+The French try to sell us their image as great lovers.	metaphorical	1
+Fischer challenged Spassky to a match	literal	0
+Please use a computerized disctionary.	literal	0
+He bounced to his feet	literal	0
+I have to translate when my in-laws from Austria visit the U.S.	literal	0
+We cannot air this X-rated song	literal	0
+The beams scanned the night sky	metaphorical	1
+I swallowed my anger and kept quiet	metaphorical	1
+The young chess player impressed her audience	literal	0
+I demand an explanation	literal	0
+The mountain was splashed with snow.	metaphorical	1
+She clawed the doorknob.	metaphorical	1
+The lights flicked on and off.	literal	0
+The ship finally ported	literal	0
+The enemy redoubled their screaming on the radio	literal	0
+bees were buzzing around the hive	literal	0
+John compared his haircut to his friend's	literal	0
+The doctors revived the comatose man	literal	0
+the bodybuilder's neck muscles tensed;	literal	0
+This boss abuses his workers.	literal	0
+She reviews books for the New York Times	literal	0
+Bill preceded John in the long line of Susan's husbands	literal	0
+The spasm convulses her facial muscles	literal	0
+They car companies retrofitted all the old models with new carburetors	literal	0
+admit someone to the profession	literal	0
+He trenched his military camp	literal	0
+Can you accommodate me with a rental car?	literal	0
+he remembered how he used to pick flowers	literal	0
+He signed his disapproval with a dismissive hand gesture.	metaphorical	1
+let's review your situation	literal	0
+She did not understand her husband	literal	0
+She alone sustained her family	literal	0
+The listeners bolted when he discussed his strange ideas	literal	0
+The mess in his dorm room reflects on the student	metaphorical	1
+The tax cut will boost the economy.	metaphorical	1
+The conversation gravitated towards politics	metaphorical	1
+They clawed their way to the top of the mountain.	metaphorical	1
+They decided to screen the blood for the HIV virus.	metaphorical	1
+The fate of Bosnia lies in the hands of the West.	metaphorical	1
+The dentist sequesters the tooth he is working on	literal	0
+The furniture molded in the old house	literal	0
+The government bowed to the military pressure	metaphorical	1
+The death of his child aged him tremendously	literal	0
+The drunk man stumbled about	literal	0
+The cigar smoke curled up at the ceiling.	metaphorical	1
+The police raided the crack house	literal	0
+synchronize this film	literal	0
+You should act like an adult	literal	0
+The children danced with joy.	literal	0
+He declared that he needed more money to carry out the task he was charged with	literal	0
+a man whose name is permanently stamped on our maps	metaphorical	1
+The results of the elections were still being processed when he gave his acceptance speech	literal	0
+He staggered along in the heavy snow.	literal	0
+The stroke clouded memories of her youth.	metaphorical	1
+We interrupt the program for the following messages	literal	0
+We were porting all in the club after dinner	metaphorical	1
+You cannot believe this man	literal	0
+The biologist assigned the mushroom to the proper class.	literal	0
+The hiker negociated the high mountain pass	metaphorical	1
+She shed a lot of tears when this happened.	literal	0
+I will lend you my car	literal	0
+She didn't want to answer	literal	0
+"When you hear his sermons, you will be able to believe, too"	literal	0
+The policeman downed the heavily armed suspect.	metaphorical	1
+The sunlight reached the wall	literal	0
+The old man sat nodding by the fireplace	literal	0
+The church members co-opted individuals from similar backgrounds to replenish the congregation	literal	0
+The charges were inflated	metaphorical	1
+We condemn the racism in South Africa	literal	0
+He exploit the new taxation system	literal	0
+we had to live frugally after the war	literal	0
+I gather you have not done your homework.	metaphorical	1
+The war uprooted many people.	metaphorical	1
+They tied their victim to the chair	literal	0
+This soil retains water	literal	0
+The lights were flashing	literal	0
+deflate the currency	metaphorical	1
+The fields vegetate vigorously	literal	0
+He tithed his income to the Church	literal	0
+The bird ruffled its feathers.	literal	0
+These colors please the senses	literal	0
+Her husband often abuses alcohol.	metaphorical	1
+she lightened the load on the tired donkey	literal	0
+The teacher assigned him to lead his classmates in the exercise.	literal	0
+use care when going down the stairs	literal	0
+The teacher nodded when the student gave the right answer	literal	0
+I understand you have no previous experience?	literal	0
+Sound and light propagate in this medium.	literal	0
+reform the health system in this country	literal	0
+Have you stuffed the turkey yet?	literal	0
+moderate your alcohol intake	literal	0
+we only use Spanish at home	literal	0
+European children learn the breast stroke; they often don't know how to crawl	literal	0
+The Turks besieged Vienna	literal	0
+He declared that he was innocent	literal	0
+He admitted his errors	literal	0
+You are taxing my patience.	metaphorical	1
+back this enterprise	literal	0
+You have shipwrecked my career.	metaphorical	1
+Please excuse my dirty hands	literal	0
+She tugged for years to make a decent living	metaphorical	1
+She wanted to buy his love with her dedication to him and his work	literal	0
+She curled farther down under the covers.	metaphorical	1
+Smith replaced Miller as CEO after Miller left	literal	0
+This nucleus has captured the slow-moving neutrons	literal	0
+The children must be properly socialized	literal	0
+We were assigned new uniforms.	literal	0
+The muscles in her face convulsed	literal	0
+they had to treat with the King	metaphorical	1
+The Senate confirmed the President's candidate for Secretary of Defense	literal	0
+This dress spots quickly	literal	0
+The orbits of these stars were perturbed by the passings of a comet	metaphorical	1
+The novel begins with a murder	literal	0
+Fear clogged her mind	metaphorical	1
+"In some states, criminals are executed"	literal	0
+She sowed sunflower seeds	literal	0
+She agreed to all my conditions	literal	0
+She hurt me when she did not include me among her guests	metaphorical	1
+"If soldiers deserted Hitler's army, they were shot"	literal	0
+He shed his image as a pushy boss.	metaphorical	1
+Do you have anything to declare?	literal	0
+All this exercise and sweating has dehydrated me.	literal	0
+They topped off their dinner with a cognac.	metaphorical	1
+The tree trunks had grown together	literal	0
+excuse someone's behavior	literal	0
+She whistled for her maid	literal	0
+The vote in New Hampshire often decides the outcome of the Presidential election	literal	0
+Our ancestors gathered nuts in the Fall.	literal	0
+fresh fruit are railed from Italy to Belgium	literal	0
+Hundreds of actors were melting into the scene	metaphorical	1
+She put too much emphasis on her the last statement	metaphorical	1
+The capsized boat righted again	literal	0
+We don't know the woman who posed for Leonardo so often	literal	0
+"With this machine, ultrasound can be visualized."	literal	0
+The heat scorched the countryside.	metaphorical	1
+The building was faced with beautiful stones.	metaphorical	1
+The sales clerk quickly seized the money on the counter	literal	0
+They vegetated the hills behind their house	literal	0
+the peace movement gained momentum	literal	0
+Her husband poisoned her drink in order to kill her	literal	0
+The unknown young man drifted among the invited guests	metaphorical	1
+warts and polyps can vegetate if not removed	literal	0
+The current boom in the economy sucked many workers in from abroad	metaphorical	1
+Did you ever visit Paris?	literal	0
+Don't involve me in your family affairs!	literal	0
+My skin crawled--I was terrified	metaphorical	1
+The roof declines here	literal	0
+He tacked together some verses	metaphorical	1
+She used to call her mother every week but now she calls only occasionally	literal	0
+I treated his advances as a joke	literal	0
+supplicate for permission	literal	0
+I was drowned in work	metaphorical	1
+The nurse pricked my finger to get a small blood sample	literal	0
+This scene acts well	metaphorical	1
+The dancer floated across the stage	metaphorical	1
+Take note of this chemical reaction	literal	0
+The hikers did not manage to penetrate the dense forest.	literal	0
+The Germans want to appreciate the Deutsche Mark	literal	0
+Did this event register in your parents' minds?	literal	0
+We continued our research into the cause of the illness	literal	0
+He walks the horse up the mountain.	literal	0
+There will be men guarding the horses.	literal	0
+refine a design or pattern	literal	0
+The house looks north	metaphorical	1
+The detergent discolored my shirts.	literal	0
+Lock the bike to the fence!	literal	0
+The pilot kited for a long time over the mountains	literal	0
+the children were confirmed in their mother's faith	literal	0
+The convicted murderer escaped from a high security prison	literal	0
+He signed to play the casino on December 18.	literal	0
+This new colleague invades my territory	literal	0
+The helmet culminated in a crest.	literal	0
+Our sense of sight enables us to locate objects in space.	literal	0
+I'm not very good at hacking but I'll give it my best	literal	0
+We must walk with our dispossessed brothers and sisters.	literal	0
+We had to orient ourselves in the forest	literal	0
+The water swells the wood	literal	0
+Her optimism whistled away these worries	metaphorical	1
+She blended the nuts and raisins together.	literal	0
+Christians refer to the mother of Jesus as the Virgin Mary	literal	0
+We produce more cars than we can sell	literal	0
+The huge waves swallowed the small boat and it sank shortly thereafter	metaphorical	1
+Vesuvius erupts once in a while	literal	0
+level criticism or charges at somebody	metaphorical	1
+The inexperienced driver kept stalling the car	literal	0
+He doubled and vomited violently	literal	0
+he flashed a $100 bill	metaphorical	1
+A big oil spot spread across the water	literal	0
+The ex-boxer's job is to bounce people who want to enter this private club	metaphorical	1
+They suspended payments on the loan.	literal	0
+capture the essence of Spring	metaphorical	1
+We waste the dirty water by channeling it into the sewer.	literal	0
+This is the day when May was assumed into heaven	literal	0
+crush an aluminum can	literal	0
+The room lightened up	literal	0
+acknowledge the deed	literal	0
+She denoted her feelings clearly	literal	0
+That song put me in awful good humor	literal	0
+The young girl danced into the room.	literal	0
+The board opposed his motion	literal	0
+This economic measure doesn't even begin to deal with the problem of inflation	literal	0
+The witness related the events.	metaphorical	1
+spot the areas that one should clearly identify	literal	0
+The speech predicated the fitness of the candidate to be President	literal	0
+It dawned on him that she had betrayed him	metaphorical	1
+I fear she might get aggressive	literal	0
+One student reported the other to the principal	literal	0
+The manuscript must be shortened	literal	0
+I inherited a castle from my French grandparents	literal	0
+Water poured all over the floor.	literal	0
+The horse finally tugged the cart out of the mud	literal	0
+The President executed the treaty	literal	0
+Age had dulled the surface	literal	0
+Suspense was building right from the beginning of the opera	literal	0
+letters trenched into the stone	metaphorical	1
+She swallowed the last words of her speech	metaphorical	1
+I was pledged to silence	literal	0
+The bellbottom pants flare out.	literal	0
+That finished me with Mary	literal	0
+She was recalled by a loud laugh	literal	0
+Many people immigrated at the beginning of the 20th century	literal	0
+the window displays tempted the shoppers	literal	0
+Can I invite you for dinner on Sunday night?	literal	0
+want the strength to go on living	literal	0
+She was crushed by his refusal of her invitation	metaphorical	1
+His mind groped to make the connection	metaphorical	1
+blue paint dashed with white	literal	0
+Make the people's hearts glow	metaphorical	1
+wharf the passengers	metaphorical	1
+We don't allow dogs here	literal	0
+grind the spices in a mortar	literal	0
+refer a patient to a specialist	literal	0
+Inheritance may not ascend linearly.	metaphorical	1
+I can't remember saying any such thing	literal	0
+The carpenter finished the table beautifully	literal	0
+We watered the buffalo	literal	0
+her indifference to his amorous advances really steamed the young man	metaphorical	1
+He made some sexual advances at the woman in his office and groped her repeatedly	literal	0
+She pieced the china cup	literal	0
+The unruly student was excluded from the game	literal	0
+spread cheese on a piece of bread	literal	0
+I warned him not to go too far.	literal	0
+pound the cows so they don't stray	literal	0
+I can't help myself--I have to smoke	literal	0
+ping your machine in the office	literal	0
+There seems no reason to go ahead with the project now	literal	0
+the con artist replaced the original with a fake Rembrandt	literal	0
+people used to salt meats on ships	literal	0
+She scanned the newspaper headlines while waiting for the taxi	literal	0
+Her optimism neutralizes his gloom	metaphorical	1
+blood stagnates in the capillaries	literal	0
+Water flowed into the cave	literal	0
+"The new ballet that debuts next months at Covent Garden, is already sold out"	literal	0
+the conversation lightened me up a bit	metaphorical	1
+consider the possibility of moving	literal	0
+Her violent feelings palpitated the young woman's heart	metaphorical	1
+He assumes the lotus position	literal	0
+The National Guardsmen were sent out to trench	literal	0
+the theater was jampacked	metaphorical	1
+The men were thrilled by a loud whistle blow	literal	0
+The boss fired his secretary today	literal	0
+Bernice bobs her hair these days!	literal	0
+The White House sits on Pennsylvania Avenue	metaphorical	1
+You must accept yourself and others if you really want to live	literal	0
+She traced the circumstances of her birth	metaphorical	1
+lay the books on the table	literal	0
+Her strange behavior condemned her	literal	0
+I allow for this possibility	literal	0
+Seurat culminated pointillism.	metaphorical	1
+We had to swim for 20 minutes to reach the shore	literal	0
+The Republicans are floating the idea of a tax reform	metaphorical	1
+The demonstrators plastered the hallways with posters	literal	0
+He flicked a piece of paper across the table.	literal	0
+this plant roots quickly	literal	0
+treat the water so it can be drunk	literal	0
+This child impressed me as unusually mature	literal	0
+The cold air condensed the steam	literal	0
+introduce exotic fruits	literal	0
+The landlord retained the security deposit	literal	0
+The editors of the left-leaning paper attacked the new House Speaker	metaphorical	1
+The principal visited his rage on the students.	metaphorical	1
+the invaders seized the land and property of the inhabitants	literal	0
+The terrorists seized the politicians	literal	0
+tack the notice on the board	literal	0
+The boys cleaned the sandwich platters	literal	0
+Some people can down a pound of meat in the course of one meal.	metaphorical	1
+The eagle stooped on the mice in the field.	literal	0
+Gun shots volleyed at the attackers.	metaphorical	1
+She challenged his claims	literal	0
+The sudden fame puffed her ego	metaphorical	1
+She plastered warnings all over the wall	literal	0
+These books sell like hot cakes.	literal	0
+The attackers volleyed gunshots at the civilians.	metaphorical	1
+The steering of my new car answers to the slightest touch	metaphorical	1
+She gained 20 pounds when she stopped exercising	literal	0
+"Fortunately, I missed the hurricane"	literal	0
+Mathematicians often visualize.	metaphorical	1
+John trailed behind his class mates.	metaphorical	1
+Sales were climbing after prices were lowered	metaphorical	1
+she nagged to take a vacation	literal	0
+the stock market plunged	literal	0
+He peeped at the woman through the window.	literal	0
+she professed herself as a nun	literal	0
+air the old winter clothes	literal	0
+She professes organic chemistry	literal	0
+His lack of interest in the project reflects badly on him	metaphorical	1
+harmonize the different interests	literal	0
+administer the last unction	literal	0
+I attacked the problem as soon as I got out of bed	metaphorical	1
+dashed ambitions and hopes	metaphorical	1
+They vested the council with special rights	metaphorical	1
+He was visited with a terrible illness that killed him quickly.	metaphorical	1
+clap two boards together	literal	0
+Health care should be socialized!	literal	0
+stuff a pillow with feathers	literal	0
+Our new synthetic fabric breathes and is perfect for summer wear	metaphorical	1
+The case was decided	literal	0
+The wind ruffled the surface of the water.	literal	0
+The treaty neutralized the small republic	metaphorical	1
+I informed him of his rights	literal	0
+She uses her influential friends to get jobs	literal	0
+The camera store owner allowed me $50 on my old camera	literal	0
+Let them match their best athletes against ours.	literal	0
+sound a certain note	literal	0
+The child looks unhappy	literal	0
+Scientists often cannot date precisely archeological or prehistorical findings	literal	0
+He said he could quote several instances of this behavior.	literal	0
+He drowned the kittens	literal	0
+Our babysitter raided our refrigerator	metaphorical	1
+The company dumped him after many years of service	metaphorical	1
+She attends class regularly	literal	0
+The critics hailed the young pianist as a new Rubinstein	literal	0
+This dog doesn't eat certain kinds of meat	literal	0
+Please excuse me from this class	literal	0
+She aired her opinions on welfare	metaphorical	1
+The Bordeaux region produces great red wines	literal	0
+This hen doesn't lay	literal	0
+"after a glass of wine, he lightened up a bit"	metaphorical	1
+He smashed a 3-run homer	metaphorical	1
+Do you appreciate the full meaning of this letter?	literal	0
+Can you express this distance in kilometers?	literal	0
+The oscillator hunts about the correct frequency	metaphorical	1
+Protein digests in a few hours	literal	0
+I can breathe better when the air is clean	literal	0
+He spread fertilizer over the lawn	literal	0
+The truck dumped the garbage in the street	literal	0
+The passenger grabbed for the oxygen mask	literal	0
+She designed a good excuse for not attending classes that day.	metaphorical	1
+She was staggered with bills after she tried to rebuild her house following the earthquake.	metaphorical	1
+His heart palpitated	literal	0
+The stock market drifted upward	metaphorical	1
+restore the forest to its original pristine condition	literal	0
+I was analyzed in Vienna by a famous psychiatrist.	literal	0
+She locked her jewels in the safe.	literal	0
+condense the contents of a book into a summary	literal	0
+I have to level with you	metaphorical	1
+The proud father produced many pictures of his baby	literal	0
+put these words to music	literal	0
+the car pinged when I put in low-octane gasoline	literal	0
+This sounds interesting	literal	0
+The speech crowned the meeting	metaphorical	1
+Subjects and verbs must always agree in English	literal	0
+The town and county schools are being consolidated	literal	0
+They named their son David	literal	0
+They scraped a letter into the stone	literal	0
+The students were gagging during dinner	literal	0
+She reenacted what had happened earlier that day	literal	0
+His wife declared at once for moving to the West Coast	literal	0
+refine a method of analysis	literal	0
+He is asking $200 for the table	literal	0
+The cost for the trip excludes food and beverages	literal	0
+The Serbs attacked the village at night	literal	0
+How could I miss that typo?	literal	0
+The prisoners are safely pounded	metaphorical	1
+trench the fallen soldiers	literal	0
+I've upgraded my computer so I can run better software	literal	0
+The mother deserted her children	literal	0
+We confronted him with the evidence	literal	0
+He addressed the crowd outside the window.	literal	0
+The toddler could count to 100	literal	0
+He fastened the lock onto the door.	literal	0
+The sun radiates heat	literal	0
+She sensitized me with respect to gender differences in this traditional male-dominated society	metaphorical	1
+I want to go home now	literal	0
+Sound or light can be propagated through air.	literal	0
+Our advertisements reach millions	literal	0
+We were keyed after the locks were changed in the building	metaphorical	1
+The waiters around her aim to please	literal	0
+the air conditioning was blasting cold air at us	literal	0
+This piece won't fit into the puzzle	literal	0
+The ground levelled off	literal	0
+He transformed into a monster.	metaphorical	1
+She poisoned her husband	literal	0
+A hot bath always relaxes me	literal	0
+These symptoms indicate a serious illness	literal	0
+The terrorists professed allegiance to their country	literal	0
+juggle an account so as to hide a deficit	metaphorical	1
+The needle pricked his skin	literal	0
+I salute your courage!	metaphorical	1
+Gas escaped into the bedroom	literal	0
+Which horse are you backing?	metaphorical	1
+This kind of work exhausts me.	literal	0
+The rain forest was literally steaming	literal	0
+tip the arrow with the small stone	literal	0
+I vouch for the quality of my products.	literal	0
+Congress condensed the three-year plan into a six-month plan	literal	0
+The singer had to be boosted onto the stage by a special contraption.	literal	0
+This story would lend itself well to serialization on television	metaphorical	1
+We escaped to our summer house for a few days	metaphorical	1
+He suddenly appeared at the wedding	literal	0
+nagging concerns and doubts	metaphorical	1
+The apothecary cooked the medicinal mixture in a big iron kettle	literal	0
+Tetracycline is indicated in such cases	literal	0
+The big bird clapped its wings	literal	0
+The prison sentence was suspended.	literal	0
+mollusks or oysters spat	literal	0
+Water sprayed all over the floor	literal	0
+He was solicited by a prostitute.	literal	0
+The delegates clamored their disappointment	metaphorical	1
+The bridge broke and precipitated the train into the river below	metaphorical	1
+Interest in ESP revived	metaphorical	1
+These big jets are tied to large airports	metaphorical	1
+He floated the logs down the river	literal	0
+They signed two new pitchers for the next season.	metaphorical	1
+The teacher professed that he was not generous when it came to giving good grades	literal	0
+She inclined her head to the student	literal	0
+He kited many checks	metaphorical	1
+He repaired to his cabin in the woods	metaphorical	1
+She is too shy to solicit.	literal	0
+Italians express coffee rather than filter it.	literal	0
+The old man was nodding in his chair	literal	0
+Her face glowed when she came out of the sauna	metaphorical	1
+I was approached by the President to serve as his adviser in foreign matters	literal	0
+They are railing for fresh fish	metaphorical	1
+She ascended to the throne after the King's death.	literal	0
+"in many languages, speakers decline nouns, pronouns, and adjectives"	literal	0
+relax the tension on the rope	literal	0
+I tell you that man is a crook!	literal	0
+the manuscript is not rubricated	literal	0
+sensitize the photographic film	literal	0
+back the car into the parking spot	literal	0
+A few words would answer	literal	0
+Would you change places with me?	literal	0
+Fame redounds to the heroes.	metaphorical	1
+She joined him for a drink	literal	0
+He sifted the information.	metaphorical	1
+They adhered to their plan.	literal	0
+They recruited new soldiers.	literal	0
+The fog blurs my vision	literal	0
+he was thrilled by the speed and the roar of the engine	literal	0
+The brothers sell shoes.	literal	0
+blast a tunnel through the Alps	literal	0
+negociate securities	literal	0
+People were pouring out of the theater.	metaphorical	1
+Blood circulates in my veins.	literal	0
+They fastened various nicknames to each other.	metaphorical	1
+The candidate ripped into his opponent mercilessly.	metaphorical	1
+He landed several blows on his opponent's head	literal	0
+The United States were constitutionalized in the late 18th century	literal	0
+the player juggled the ball	literal	0
+The party recruited many new members.	literal	0
+Shake the salt out of the salt shaker.	literal	0
+A new word processor was introduced	literal	0
+dashed by the refusal	metaphorical	1
+The usher insisted on reseating us	literal	0
+The Chinese would bind the feet of their women.	literal	0
+She understands French	literal	0
+She tugged and wrestled with her conflicts	metaphorical	1
+Can you fit the toy into the box?	literal	0
+We cannot admit non-members into our club building	literal	0
+We rotate the lead soprano every night	literal	0
+You should acquaint yourself with your new computer.	literal	0
+Mao reposes in his mausoleum	literal	0
+The bugs pinged the lamp shade	literal	0
+A glossy material faced the lapels of the jacket.	metaphorical	1
+She looked her devotion to me	literal	0
+The doctor distilled a few drops of disinfectant onto the wound	literal	0
+The curtain ripped from top to bottom.	literal	0
+consolidate one's gains	literal	0
+He finished the dishes	literal	0
+He brushed the wall lightly	literal	0
+This neighborhood is segregated	literal	0
+This exercise will hurt your back	literal	0
+He was recast as Iago.	literal	0
+The children teased the new teacher	literal	0
+her rucksack bobbed gently on her back	literal	0
+The radiologist can visualize the cancerous liver.	literal	0
+The stock market gained 24 points today	literal	0
+I'd like to register this letter	literal	0
+The King ordained the persecution and expulsion of the Jews.	literal	0
+each answer counts as three points	literal	0
+he painted all day in the garden	literal	0
+The Senator steamrollered the bill to defeat	metaphorical	1
+The doctor treated my broken leg	literal	0
+She was declared incompetent	literal	0
+the wings of the birds clapped loudly	literal	0
+The French doors admit onto the yard	literal	0
+The Senator steamrollered the bill to defeat	metaphorical	1
+"I don't know how to sign, so I could not communicate with my deaf cousin."	literal	0
+The father is portrayed as a good-looking man in this painting	literal	0
+mount a campaign against pornography	metaphorical	1
+Paul walked the streets of Damascus.	literal	0
+They poured water over the floor.	literal	0
+We invited the neighbors in for a cup of coffee	literal	0
+The baby talks already.	literal	0
+the accident claimed three lives	literal	0
+We injected the glucose into the patient's vein	literal	0
+The child colored the drawings	literal	0
+She posed as the Czar's daughter	literal	0
+distill the essence of this compound	literal	0
+Dinner at Joe's always involves at least six courses	literal	0
+Social forces converged to bring the Fascists back to power.	metaphorical	1
+He always wears a smile	metaphorical	1
+Please don't interrupt me while I'm on the phone	literal	0
+indicated his wishes in a letter	literal	0
+It plunged to the bottom of the well	literal	0
+We provided the room with an electrical heater	literal	0
+restore law and order	literal	0
+The band debuts a new song or two each month	literal	0
+The news leaked out despite his secrecy	metaphorical	1
+The pirates raided the coastal villages regularly	literal	0
+we age every day--what a depressing thought!	literal	0
+Her smile denoted that she agreed	literal	0
+The patient with emphysema is hacking all day	literal	0
+She expressed the letter to Florida.	literal	0
+The laboratory retrofitted to meet the safety codes	literal	0
+The secret police suspended their victims from the ceiling and beat them.	literal	0
+construct an argument	literal	0
+I cannot retain so much information	literal	0
+She wrote the letter on Monday but she dated it Saturday so as not to reveal that she procrastinated	literal	0
+The car stalled in the driveway	literal	0
+I can count my colleagues in the opposition	literal	0
+The water shortage means that we have to stop taking long showers.	literal	0
+I worry about the second Germanic consonant shift	literal	0
+They were shipwrecked in one of the mysteries at sea.	literal	0
+The dress molds her beautiful figure	metaphorical	1
+I meet this men every day on my way to work and he salutes me	literal	0
+It hailed for an hour	literal	0
+The list was headed by the name of the president	literal	0
+I worry about my grades	literal	0
+Carnegie had a lake excavated for Princeton University's rowing team.	literal	0
+The principles that inform modern teaching	literal	0
+The glut of oil depressed gas prices	metaphorical	1
+He loaded his gun carefully	literal	0
+The question concerning the meaning of life cannot be answered	literal	0
+The nightingale was singing	literal	0
+The mining company wants to excavate the hillside.	literal	0
+She specializes in honey bees	literal	0
+The lazy student promised to reform	literal	0
+This drug will sharpen your vision	metaphorical	1
+The rain water drains into this big vat.	literal	0
+We can lean on this man	metaphorical	1
+She drowned her trouble in alcohol	metaphorical	1
+ease the pain in your legs	literal	0
+The lack of rain had depressed the water level in the reservoir	metaphorical	1
+The company recalled the product when it was found to be faulty	literal	0
+remember me in your prayers	literal	0
+She was named Head of the Committee	literal	0
+step over to the blackboard	literal	0
+The summer sun alone can cause a pine to blaze.	literal	0
+specialize one's research	literal	0
+The locks pound the water of the canal	metaphorical	1
+His laughter infects everyone who is in the same room	metaphorical	1
+This vaccine will guard you against infection.	metaphorical	1
+The building was levelled	literal	0
+The victim's family is demanding compensation	literal	0
+It can transform energy to light.	literal	0
+The cancer had invaded her lungs	literal	0
+I fear the results of the final exams	literal	0
+Heat radiated from the metal box	literal	0
+Her feet blistered during the long hike.	literal	0
+I wouldn't put it that way	literal	0
+paste the sign on the wall	literal	0
+He never socializes with his colleagues	literal	0
+She was eating a banana	literal	0
+rail off the crowds from the Presidential palace	literal	0
+He was condemned to ten years in prison	literal	0
+I believed his report	literal	0
+The government relaxed the curfew after most of the rebels were caught	metaphorical	1
+Don't twist my words	metaphorical	1
+Planes buzzed the crowds in the square	literal	0
+He was ordained in the Church.	literal	0
+Don't waste a joke on an unappreciative audience.	metaphorical	1
+the lion is rampant in this heraldic depiction	literal	0
+The troops scaled the walls of the fort	literal	0
+rationalize the child's seemingly crazy behavior	metaphorical	1
+This rare Bordeaux must be allowed to breathe for at least 2 hours	metaphorical	1
+You never understand what I mean!	literal	0
+rail in the old graves	metaphorical	1
+She is pushing fifty	metaphorical	1
+a quantum computer can factor the number 15	literal	0
+"If you don't oblige me, I'll talk!"	literal	0
+Your need to sleep late does not excuse your late arrival at work	literal	0
+His body was deformed by leprosy	literal	0
+synchronize biblical events	literal	0
+this car consumes a lot of gas	literal	0
+The war inflated the economy	metaphorical	1
+The motorcycle smashed into the guard rail	literal	0
+He remembered her in his will	literal	0
+The book portrays the actor as a selfish person	literal	0
+This problem admits of no solution	metaphorical	1
+the enemy landed several of our aircraft	literal	0
+I want you here at noon!	literal	0
+grind designs into the glass bowl	literal	0
+The tugboat tugged the freighter into the harbor	literal	0
+`multi-' denotes `many' 	literal	0
+She specializes in Near Eastern history	literal	0
+I cannot baby-sit tonight; I have too much homework to do	metaphorical	1
+He assumed to himself the right to fill all positions in the town	literal	0
+construct a sentence	literal	0
+earthquakes convulsed the countryside	literal	0
+These rivers head from a mountain range in the Himalayas	metaphorical	1
+reform a political system	literal	0
+alternately relax and tense your calf muscle	literal	0
+Britain immigrated many colonists to America	literal	0
+The young geisha was inducted into the ways of her profession.	literal	0
+These flowers were meant for you.	literal	0
+The government floated the ruble for a few months	metaphorical	1
+He bowed before the King	literal	0
+There were lots of questions referring to her talk	literal	0
+distill the essence of this compound	literal	0
+execute a will or a deed	literal	0
+We poured money into the education of our children.	metaphorical	1
+The mere thought of her bothered him and made his heart beat faster	literal	0
+They railed from Rome to Venice	literal	0
+The child had been missing for a week	literal	0
+The State taxes alcohol heavily.	literal	0
+She acts in this play	literal	0
+tread grapes to make wine	literal	0
+a magazine oriented towards young people	literal	0
+She tested high on the LSAT and was admitted to all the good law schools	literal	0
+She vested her vast fortune in her two sons	literal	0
+square the wood with a file	literal	0
+The leaves clog our drains in the Fall	literal	0
+"fuel aircraft, ships, and cars"	literal	0
+This job doesn't match my dreams.	literal	0
+the government digested the entire law into a code	metaphorical	1
+provide for the proper care of the passengers on the cruise ship	literal	0
+form the young child's character	metaphorical	1
+Gielgud appears briefly in this movie	literal	0
+"When one wonders why one is doing certain things, one should rationalize"	literal	0
+transfer the packet from his trouser pockets to a pocket in his jacket	literal	0
+I pledged $10 a month to my favorite radio station	literal	0
+The tooth erupted and had to be extracted	metaphorical	1
+communicate a disease	literal	0
+The sidewalk deformed during the earthquake	literal	0
+Their language inclines us to believe them	metaphorical	1
+We were up drinking all night	literal	0
+wear one's hair in a certain way	literal	0
+The hikers topped the mountain just before noon	metaphorical	1
+The colors don't harmonize	metaphorical	1
+She hunted for her reading glasses but was unable to locate them	metaphorical	1
+flush the wound with antibiotics	metaphorical	1
+Her remarks confused the debate.	literal	0
+preserve the peace in the family	metaphorical	1
+They hunted the unwanted immigrants out of the neighborhood	literal	0
+She salts her lectures with jokes	metaphorical	1
+The book stimulated her imagination	literal	0
+color the walls with paint in warm tones	literal	0
+Be carefu l-- his secretary talks.	literal	0
+He claimed that he killed the burglar	literal	0
+the mother seated the toddler on the high chair	literal	0
+paste the wall with burlap	literal	0
+She noted that someone was following her	literal	0
+These architects build in interesting and new styles	literal	0
+He peeped his head through the window.	metaphorical	1
+The dean of students tries to orient the freshmen	literal	0
+"I served him three times, and after that he helped himself"	literal	0
+The children were clapping to the music	literal	0
+The defendant answered to all the charges of the prosecution	literal	0
+The military forces managed to recapture the fort.	literal	0
+His story completely involved me during the entire afternoon	literal	0
+the county condemned the land to build a highway	literal	0
+The judge clapped him in jail	metaphorical	1
+administer critical remarks to everyone present	literal	0
+Her feelings condensed	metaphorical	1
+She plunged at it eagerly	literal	0
+the sky flushed with rosy splendor	metaphorical	1
+Great heat can ignite almost any dry matter	literal	0
+shorten the rope by a few inches	literal	0
+The sales tax is absorbed into the state income tax.	metaphorical	1
+These pills will help the patient	literal	0
+This may answer her needs	literal	0
+The Middle East is fermenting	metaphorical	1
+Mosquitoes buzzing in my ear really bothers me	literal	0
+This road has been signed.	literal	0
+This flavor will blend with those in your dish.	literal	0
+I reviewed the material before the test	literal	0
+She stuffed herself at the dinner	metaphorical	1
+steamroller the opposition	metaphorical	1
+The will provides that each child should receive half of the money	literal	0
+The coals were glowing in the dark	literal	0
+the sun segregates the carbon	literal	0
+Immigrants often want to assimilate quickly	literal	0
+They mounted the aerator on a floating	literal	0
+The ship was wharfed	literal	0
+Let's synchronize our efforts	literal	0
+flags flapped in the strong wind	literal	0
+The salesman is aggressively pushing the new computer model	metaphorical	1
+I cannot digest milk products	literal	0
+Our basement flooded during the heavy rains	literal	0
+his story confirmed my doubts	literal	0
+The acid distills at a specific temperature	literal	0
+sorrow was mapped on the mother's face	metaphorical	1
+"After the shelling, many people lost the ability to remember"	literal	0
+We have exhausted the food supplies.	metaphorical	1
+He claimed his suitcases at the airline counter	literal	0
+The teams drew a tie	literal	0
+The sun melted the ice	literal	0
+We were tempted by the delicious-looking food	literal	0
+The rising inflation depressed the economy	literal	0
+reseat the old broken chair	literal	0
+This word is not attested until 1993	literal	0
+This young man knows how to climb the social ladder	metaphorical	1
+lined books are more enduring	literal	0
+The child screamed when he confronted the man in the Halloween costume	literal	0
+The soldiers were fired	literal	0
+blast a passage through the mountain	literal	0
+Meteors blazed across the atmosphere.	metaphorical	1
+She was wearing yellow that day	literal	0
+The scientist screened these samples.	literal	0
+For fools rush in where angels fear to tread	literal	0
+The latest intelligence is flashed to all command posts	metaphorical	1
+The drawing of the suspect answers to the description the victim gave	literal	0
+This sad scene ended the movie.	literal	0
+The balloons deflated	literal	0
+This idea will never amount to anything	metaphorical	1
+She smashed her car against the guard rail	literal	0
+He quoted prices for cars.	literal	0
+poison someone's mind	metaphorical	1
+Please don't aim at your little brother!	literal	0
+Every creature that breathes	literal	0
+The company located some of their agents in Los Angeles.	literal	0
+Tears streamed down her face	literal	0
+The clocks synchronize	literal	0
+We put the time of arrival at 8 P.M.	literal	0
+The building was condemned by the inspector	literal	0
+Sound is reflected well in this auditorium	literal	0
+They plan to uproot the vine that has spread all over the garden.	literal	0
+When will the new President assume office?	literal	0
+She lied when she told me she was only 29.	literal	0
+grind lenses for glasses and cameras	literal	0
+She scored the clay before firing it.	literal	0
+Long-term exposure to this medicine may sensitize you to the allergen	literal	0
+All our planets condensed out of the same material	literal	0
+The news were leaked to the paper	metaphorical	1
+She wanted to aim a pun	metaphorical	1
+We agreed on the terms of the settlement	literal	0
+He and his sons haven't communicated for years	literal	0
+The predicate `dog' is predicated of the subject `Fido' in the sentence `Fido is a dog'	literal	0
+my brain is swimming after the bottle of champagne	metaphorical	1
+Are the letters properly stamped?	literal	0
+The airline upgraded me when I arrived late and Coach Class was full	literal	0
+You must confront your problems	literal	0
+He bowed before the King	literal	0
+The plastic bottle crushed against the wall	literal	0
+They claimed on the maximum allowable amount	literal	0
+We sailed the Atlantic	literal	0
+The tavern owners stampeded us into overeating	metaphorical	1
+The roses ramped over the wall	literal	0
+They computerized the car industry	literal	0
+He could tell that she was unhappy	literal	0
+We were expecting a visit from our relatives	literal	0
+The crowd flowed out of the stadium	metaphorical	1
+We preserve these archeological findings	literal	0
+The children wrestled in the garden.	literal	0
+The wrestler twisted his shoulder	literal	0
+the rebels had salted the fields with mines and traps	metaphorical	1
+"Every summer, we visited our relatives in the country for a month."	literal	0
+Her long skirt brushed the floor	literal	0
+She scored high on the SAT.	literal	0
+Marsh gases ignited suddenly	literal	0
+Grandmother always treated us to the circus	literal	0
+This decision involves many changes	literal	0
+Let's avoid a confrontation.	literal	0
+This robot can sense the presence of people in the room	literal	0
+brush away the crumbs	literal	0
+I inherited my good eyesight from my mother	literal	0
+She neutralized the solution	literal	0
+The taxes were remitted	literal	0
+The bellies of the starving children are swelling	literal	0
+She was pleading insanity.	literal	0
+He communicated his anxieties to the psychiatrist	literal	0
+Three secretaries were downsized during the financial crisis.	metaphorical	1
+The nation reposed its confidence in the King	literal	0
+We rationalized the factory's production and raised profits	literal	0
+He swallowed his words	metaphorical	1
+I wrestled with this decision for years.	metaphorical	1
+The situation was rather involved	literal	0
+Can you translate the instructions in this manual for a layman?	literal	0
+The academy counts several Nobel Prize winners among its members	literal	0
+replace the book on the shelf after you have finished reading it	literal	0
+The home team scored many times.	literal	0
+vote the Democratic ticket	literal	0
+sow suspicion or beliefs	metaphorical	1
+The father flicked him with his hand.	metaphorical	1
+The procession was headed by John	metaphorical	1
+We tasted wines last night	literal	0
+We haven't even begun to map the many galaxies that we know exist	literal	0
+only few plants can immigrate to the island	literal	0
+preserve the forest and the lakes	literal	0
+This letter is being circulated among the faculty.	literal	0
+The lab director recruited an able crew of assistants.	literal	0
+I asked about their special today	literal	0
+Permit me to acquaint you with my son.	literal	0
+The population doubled within 50 years	literal	0
+She ended their friendship when she found out that he had once been convicted of a crime.	literal	0
+society was infected by racism	metaphorical	1
+Please guard my possessions while I'm away.	literal	0
+The architect wants to step the terrace	literal	0
+We oppose the ban on abortion	literal	0
+clean grain before milling it	literal	0
+The Church reformed me	metaphorical	1
+fill the child with pride	metaphorical	1
+He was not sensitized to her emotional needs	literal	0
+Will he vouch for me?	literal	0
+The new chairman inherited many problems from the previous chair	literal	0
+Mud was sucking at her feet	metaphorical	1
+We were approaching our destination	literal	0
+She brushed the suit before hanging it back into the closet	literal	0
+The Mafioso who collaborated with the police was executed	literal	0
+This hotel can accommodate 250 guests	literal	0
+the money vanished in las Vegas	literal	0
+This car does not compare with our line of Mercedes	literal	0
+The list includes the names of many famous writers	literal	0
+social groups form everywhere	literal	0
+She had to compose herself before she could reply to this terrible insult	literal	0
+the stock market corrected	metaphorical	1
+The chemical clouded the liquid to which it was added.	metaphorical	1
+The new teacher tends to steamroller	metaphorical	1
+The prince was crowned in Westminster Abbey	literal	0
+The advertisement is intended to tease the customers	literal	0
+This procedure produces a curious effect	literal	0
+the salesman pounded the door knocker	literal	0
+The QE2 will sail to Southampton tomorrow	literal	0
+We sustained the diplomatic negotiations as long as possible	literal	0
+He was warned that the district attorney would process him	metaphorical	1
+The thought of her unhappiness pricked his conscience	metaphorical	1
+the captain ported the ship at night	literal	0
+The dog pricked up his ears	literal	0
+he swallowed a fishbone and gagged	literal	0
+I sense his hostility	literal	0
+drift the boats downstream	literal	0
+join these two parts so that they fit together	literal	0
+The other players cleaned him completely	literal	0
+He downed three martinis before dinner.	metaphorical	1
+I transferred my stock holdings to my children	literal	0
+vote one's conscience	literal	0
+spray water on someone	literal	0
+Did you ever climb up the hill behind your house?	literal	0
+the surgeon scanned the X-ray	literal	0
+"After the second episode, she had to be committed"	literal	0
+The senator said he would oppose the bill	literal	0
+The war intervened between the birth of her two children.	metaphorical	1
+map the surface of Venus	literal	0
+He was processed by the sheriff	literal	0
+"piece the broken pieces of thread, slivers, and rovings"	literal	0
+The news eased my conscience	literal	0
+lay a responsibility on someone	metaphorical	1
+the growth in income translates into greater purchasing power	literal	0
+Can you locate your cousins in the Midwest?	literal	0
+The horse was galloping along	literal	0
+Please communicate this message to all employees	literal	0
+The roofer began to gutter the buildings.	literal	0
+You should shower after vigorous exercise	literal	0
+introduce legislation	literal	0
+The rubber ball bounced	literal	0
+Henry IV solicited the Pope for a divorce.	literal	0
+pin down the butterfly	literal	0
+The children traced along the edge of the dark forest	metaphorical	1
+Life in the camp drained him.	metaphorical	1
+The author recaptures an old idea here.	literal	0
+The stars gravitate towards each other	literal	0
+The meeting culminated in a tearful embrace.	metaphorical	1
+The painting discolored.	literal	0
+"She assumed indifference, even though she was seething with anger"	literal	0
+The bell cracked and had to be recast.	literal	0
+The bicycle looped around the tree.	metaphorical	1
+This action reflects his true beliefs	metaphorical	1
+She missed her train	literal	0
+The hostess provided lunch for all the guests	literal	0
+The new contact lenses will correct for his myopia	literal	0
+She talks a lot of nonsense.	literal	0
+Schliemann excavated Troy.	literal	0
+The cations were sequestered	literal	0
+She dashed into the yard	literal	0
+The athlete pumps weights in the gym.	literal	0
+The wine spotted the tablecloth	literal	0
+we must exploit the resources we are given wisely	literal	0
+you can count on me to help you any time	metaphorical	1
+This new ruling affects your business	literal	0
+Her presence lends a certain cachet to the company	literal	0
+He fitted other pieces of paper to his cut-out	literal	0
+She likes to read Russian novels	literal	0
+Muslims avoid tobacco during the day.	literal	0
+Did you register any change when I pressed the button?	literal	0
+Our dog sheds every Spring.	literal	0
+The King used to hunt these forests	literal	0
+This function can be rationalized	literal	0
+The liberal party pushed for reforms	metaphorical	1
+lay the foundation for a new health care plan	metaphorical	1
+"To make a batik, you impress a design with wax"	literal	0
+They scored the SAT essays.	literal	0
+The ramped auditorium	metaphorical	1
+It seems that he is very gifted	literal	0
+They marched the mules into the desert	literal	0
+One can never fully repair the suffering and losses of the Jews in the Third Reich	literal	0
+Stone tools precede bronze tools	literal	0
+He was found guilty but appealed immediately.	literal	0
+build a defense on nothing but the accused person's reputation	literal	0
+This play is going to ruffle some people.	metaphorical	1
+deflate the air mattress	literal	0
+The package is dated November 24	literal	0
+She helped herself to some of the office supplies	literal	0
+The headlines flashed on the screen	literal	0
+The companies consolidated	literal	0
+He always addresses me with `Sir'.	literal	0
+The bacterial growth vegetated along	literal	0
+"she doesn't want to write the report, so she is stalling"	literal	0
+The Nazis swallowed the Baltic countries	metaphorical	1
+The soldiers sifted through the woods.	metaphorical	1
+We looked all day and finally found the child in the forest	literal	0
+Water leaked out of the can into the backpack	literal	0
+We had to sharpen our arguments	metaphorical	1
+He vouched his words by his deeds.	metaphorical	1
+He professed innocence but later admitted his guilt	literal	0
+The press was gagged	metaphorical	1
+fuel the debate on creationism	metaphorical	1
+She bolted from her seat	literal	0
+My husband and I like to dance at home to the radio.	literal	0
+this may land you in jail	metaphorical	1
+The mother was swelling with importance when she spoke of her son	metaphorical	1
+The mansion was retrofitted with modern plumbing	literal	0
+The horses walked across the meadow.	literal	0
+The architect decided to stagger the chairs in the lecture hall.	literal	0
+Put on your rain coat -- it's pouring outside!	metaphorical	1
+He tensed up when he saw his opponent enter the room	literal	0
+heap firewood around the fireplace	literal	0
+the pig was rooting for truffles	literal	0
+Can you back up your claims?	literal	0
+The politician clawed his rival.	metaphorical	1
+He blazed away at the men.	metaphorical	1
+The moon glared back at itself from the lake's surface	metaphorical	1
+think before you act	literal	0
+He wasted his inheritance on his insincere friends.	metaphorical	1
+I couldn't shake the car that was following me.	metaphorical	1
+The path climbed all the way to the top of the hill	metaphorical	1
+administer a program	literal	0
+She had to juggle her job and her children	metaphorical	1
+the medicine affects my heart rate	literal	0
+I can't hack it anymore	metaphorical	1
+Bullets were spatting down on us	literal	0
+answer the telephone	literal	0
+The heavy rain guttered the soil.	metaphorical	1
+a terrible stench saluted our nostrils	metaphorical	1
+The old cheese was crawling with maggots	metaphorical	1
+I aim to arrive at noon	metaphorical	1
+Each oar was tugged by several men	literal	0
+He joined the Communist Party as a young man	literal	0
+The old man was stooping but he could walk around without a cane.	literal	0
+The teacher tests us every week	literal	0
+He had to appear in court last month	literal	0
+The two pieces match.	literal	0
+The market is being clogged by these operations	metaphorical	1
+"The theater seats 2,000"	literal	0
+She had scraped together enough money for college	metaphorical	1
+The two roads join here	literal	0
+Greed and ambition composed his personality	metaphorical	1
+This poses an interesting question	metaphorical	1
+I put these memories with those of bygone times	literal	0
+They taxed him failure to appear in court.	metaphorical	1
+These potatoes have to cook for 20 minutes	literal	0
+twist the dough into a braid	literal	0
+The car makers downsized the SUVs when fuel became very expensive.	metaphorical	1
+The illegal immigrant was challenged by the border guard	literal	0
+We cannot continue several servants any longer	literal	0
+He was accused of soliciting his colleagues to destroy the documents.	literal	0
+We co-opted the independent minority tribes by pulling them into the Northern Alliance	literal	0
+She writes code faster than anybody else.	literal	0
+"Although she left the church officially, she still tithes"	literal	0
+stock prices are drifting higher	metaphorical	1
+Many senators were named in connection with the scandal	literal	0
+I won't stoop to reading other people's mail.	metaphorical	1
+He pushed her to finish her doctorate	metaphorical	1
+Corn doesn't grow here	literal	0
+The child stuffed candy into his pockets	literal	0
+He spelled the word wrong in this letter	literal	0
+Snow reported on China in the 1950's	literal	0
+seat the camera on the tripod	literal	0
+The champagne flowed at the wedding	metaphorical	1
+The old man sat and stagnated on his porch	literal	0
+An entire civilization vanished	literal	0
+You must adhere to the rules.	metaphorical	1
+He revived this style of opera	literal	0
+The sun glared down on us	metaphorical	1
+The candidate carefully timed his appearance at the disaster scene.	literal	0
+The child was pinned under the fallen tree	literal	0
+The patient must drink several liters each day	literal	0
+The critics puffed up this Broadway production	metaphorical	1
+The boys bobbed down the hill screaming with pleasure	literal	0
+The gardener topped the trees and bushes.	metaphorical	1
+You should carry dehydrated food on your camping trip.	literal	0
+The fluid suspends the particles.	metaphorical	1
+Goering often hunted wild boars in Poland	literal	0
+He heaped him with work	metaphorical	1
+My husband doesn't cook	literal	0
+The police smashed the drug ring after they were tipped off	metaphorical	1
+The residents of this village adhered to Catholicism.	metaphorical	1
+steam-clean the upholstered sofa	literal	0
+She dismissed his advances	literal	0
+The rooms communicated	metaphorical	1
+The church was tithed	literal	0
+Fear seized the prisoners	metaphorical	1
+The crowd cheered the demonstrating strikers	literal	0
+The old man warned the children off his property.	literal	0
+The tibia fractured from the blow of the iron pipe.	literal	0
+sorrow had lined his face	metaphorical	1
+This dress fastens in the back.	literal	0
+"Hitler invaded Poland on September 1, 1939"	literal	0
+This tastes of nutmeg	literal	0
+The two sofas face each other.	literal	0
+He showered her with presents	metaphorical	1
+She leaned over the banister	literal	0
+The children teased the boy because of his stammer	literal	0
+We must include this chemical element in the group	literal	0
+The program committee acknowledged the submission of the authors of the paper	literal	0
+How many books did Georges Simenon write?	literal	0
+He kicked the extra point after touchdown.	literal	0
+Will the new rules affect me?	literal	0
+The container leaked gasoline	literal	0
+These apples need to mellow a bit more	metaphorical	1
+These news depressed her	literal	0
+My garage backs their yard	literal	0
+The company matched the employees' contributions.	literal	0
+She pleaded not guilty.	literal	0
+where is she heading	literal	0
+He was locked in a laughing fit.	metaphorical	1
+He marched into the classroom and announced the exam	literal	0
+She stumbled over the tree root	literal	0
+We wish you a nice evening!	literal	0
+These questions confuse even the experts.	literal	0
+the pilot managed to land the airplane safely	literal	0
+My son drifted around for years in California before going to law school	metaphorical	1
+You must confront your opponent	literal	0
+The towers were topped with conical roofs.	literal	0
+The haze blurs the hills	literal	0
+She groped for her glasses in the darkness of the bedroom	literal	0
+Everyone helped out during the earthquake	literal	0
+make things factor into a company's profitability	literal	0
+The mother drinks in every word of her son on the stage	metaphorical	1
+Every star seemed to flare with new intensity.	metaphorical	1
+The spaceship blazed out into space.	metaphorical	1
+the flowers were nodding in the breeze	metaphorical	1
+I fear the winters in Moscow	literal	0
+Middle age dulled her appetite for travel	metaphorical	1
+Most English adjectives precede the noun they modify	literal	0
+We ferment the grapes for a very long time to achieve high alcohol content	literal	0
+The event engraved itself into her memory	metaphorical	1
+execute the decision of the people	literal	0
+His nostrils palpitated	literal	0
+The big ship was slowly porting	literal	0
+A good way of exercising is to constitutionalize	literal	0
+The minister was ordained only last month.	literal	0
+John moderated the discussion	literal	0
+A puffing kind of man	metaphorical	1
+His skills offset his opponent's superior strength	literal	0
+Boys gravitate towards girls at that age	literal	0
+Estimates for the losses in the earthquake range as high as $2 billion.	literal	0
+She committed herself to the work of God	literal	0
+Fundamental Islamicists threaten to perturb the social order in Algeria and Egypt	metaphorical	1
+This stove cleans easily	literal	0
+Who erased the files form my hard disk?	literal	0
+she snorted her disapproval of the proposed bridegroom	metaphorical	1
+plaster the broken arm	literal	0
+spokes radiate from the hub of the wheel	literal	0
+We credited her for saving our jobs	literal	0
+I was dismissed after I gave my report	literal	0
+The arrow missed the target	literal	0
+She changed completely as she grew older	literal	0
+The scientists had to accommodate the new results with the existing theories	literal	0
+conduct an orchestra; Barenboim conducted the Chicago symphony for years	literal	0
+"Suddenly, the proprietor emerged from his office"	literal	0
+These philosophers reposed the law in the people	literal	0
+The tree would not produce fruit	literal	0
+The drug smugglers landed the heroin on the beach of the island	literal	0
+The President declared war	literal	0
+The Japanese marched their prisoners through Manchuria	literal	0
+The electrons were perturbed by the passing ion	metaphorical	1
+The hydrogen binds the oxygen.	literal	0
+This piano wants the attention of a competent tuner	metaphorical	1
+The cord is all twisted	literal	0
+The path ascended to the top of the hill.	literal	0
+The tornado ripped along the coast.	metaphorical	1
+You cannot conduct business like this	literal	0
+The ex-slave tasted freedom shortly before she died	metaphorical	1
+I stumbled across a long-lost cousin last night in a restaurant	metaphorical	1
+The girl glared at the man who tried to make a pass at her	literal	0
+She was singing while she was cooking	literal	0
+The mother splashed the baby's face with water.	literal	0
+heap the platter with potatoes	literal	0
+He quoted the Bible to her.	literal	0
+How does this shirt fit?	literal	0
+Don't bolt your food!	metaphorical	1
+engineers will work to correct the effects or air resistance	literal	0
+She poisoned her husband but he did not die	literal	0
+The guy hanging around the school is pushing drugs	metaphorical	1
+How do you spell this word?	literal	0
+offset deposits and withdrawals	literal	0
+We time the process to manufacture our cars very precisely.	literal	0
+I pleaded with him to stop.	literal	0
+He grows vegetables in his backyard	literal	0
+The country lay ruined after the war	literal	0
+She wanted to ruffle his composure.	metaphorical	1
+The night sky flared with the massive bombardment.	metaphorical	1
+The burglars gagged the home owner and tied him to a chair	literal	0
+He absorbed the knowledge or beliefs of his tribe.	metaphorical	1
+The therapist noticed that the patient's knees tended to lock in this exercise.	literal	0
+The pothole fractured a bolt on the axle.	literal	0
+The crocodile was crawling along the riverbed	literal	0
+supplicate God's blessing	literal	0
+The wax melted in the sun	literal	0
+The drunken man staggered into the room.	literal	0
+The stars are obscured by the clouds.	literal	0
+The artist flowed the washes on the paper	metaphorical	1
+Industry will stagnate if we do not stimulate our economy	literal	0
+he hacked his way through the forest	literal	0
+She looked over the expanse of land	literal	0
+She gathered her shawl around her shoulders.	literal	0
+She pumped the witnesses for information.	metaphorical	1
+These events could fracture the balance of power.	metaphorical	1
+I heard him volley a string of curses.	metaphorical	1
+She repaired her TV set	literal	0
+Coffee and tea stimulate me	literal	0
+the uniform looks like it belonged to a museum collection	literal	0
+She nags her husband all day long	literal	0
+She interrupted her pregnancy	metaphorical	1
+he declined to join the group on a hike	literal	0
+Her efforts will redound to the general good.	metaphorical	1
+T. Boone Pickens raided many large companies	literal	0
+The immigrants were quickly absorbed into society.	metaphorical	1
+transfer the patient to another hospital	literal	0
+The exposed tree scorched in the hot sun.	metaphorical	1
+The bad results were excluded from the report	literal	0
+one idea squares with the other one	metaphorical	1
+The fishermen tied their flies	literal	0
+I report to work every day at 9 o'clock	literal	0
+The crowd pushed forward	literal	0
+The parties negociated all night	literal	0
+The addict was snorting cocaine almost every day	literal	0
+The ostentatious way of living of the rich ignites the hatred of the poor	metaphorical	1
+name your accomplices!	literal	0
+His voice began to change when he was 12 years old	literal	0
+Appeal to somebody for help!	metaphorical	1
+the estate was sequestered	literal	0
+the flirting man teased the young woman	literal	0
+"In winter, the days shorten"	literal	0
+I seem to be misunderstood by everyone	literal	0
+This show will air Saturdays at 2 P.M.	metaphorical	1
+Who is heading this project?	literal	0
+He squared his shoulders	metaphorical	1
+trees line the riverbank	literal	0
+A star tops the Christmas Tree.	literal	0
+I include you in the list of culprits	literal	0
+He filled up on turkey	literal	0
+The property vests in the trustees	literal	0
+The music swelled to a crescendo	metaphorical	1
+She hails from Kalamazoo	literal	0
+How did you like the President's speech last night?	literal	0
+This new development finally decided me!	literal	0
+The two stories don't agree in many details	literal	0
+Can you divide 49 by seven?	literal	0
+"After a hard day's work, I vegetate in front of the television"	metaphorical	1
+The home team was gaining ground	literal	0
+She inclines to the view that people should be allowed to expres their religious beliefs	metaphorical	1
+pin the needle to the shirt	literal	0
+The new measures deflated the economy	metaphorical	1
+divide the cake into three equal parts	literal	0
+The professor plunged his students into the study of the Italian text	metaphorical	1
+She appealed the verdict.	literal	0
+The bird landed on the highest branch	literal	0
+She changed in Chicago on her way to the East coast	literal	0
+Your former neighbor is wanted by the FBI	literal	0
+he got a phone call from his lawyer that tensed him up	literal	0
+The Turks erased the Armenians in 1915	metaphorical	1
+The stunt pilot looped his plane.	metaphorical	1
+This student heads the class	metaphorical	1
+The car crushed the toy	literal	0
+White wine doesn't agree with me	metaphorical	1
+He looped the watch through his belt.	literal	0
+We credit your account with $100	literal	0
+The effort to pass the exam consumed all his energy	literal	0
+She splashed the water around her.	literal	0
+You must consider her age	literal	0
+She spelled her husband at the wheel	metaphorical	1
+We remembered the 50th anniversary of the liberation of Auschwitz	literal	0
+There was a ceremony to induct the president of the Academy.	literal	0
+he buzzed the servant	metaphorical	1
+Thunderbolts can stampede animals	literal	0
+This room is not designed for work.	literal	0
+inflate the currency	metaphorical	1
+They sifted through the job candidates.	metaphorical	1
+Why did the U.S. not intervene earlier in WW II?	literal	0
+Did you gallop the horse just now?	literal	0
+The yen appreciated again!	literal	0
+The smoke clouded above the houses.	literal	0
+mount slides for macroscopic analysis	literal	0
+Bernstein conducted Mahler like no other conductor	literal	0
+The old man rejuvenated when he became a grandfather	literal	0
+The problem roots in her depression	metaphorical	1
+I sensed the real meaning of his letter	literal	0
+She must answer for her actions	literal	0
+her sunglasses reflected his image	literal	0
+The witnesses confirmed the victim's account	literal	0
+spray the wall with paint	literal	0
+The sailors decided to tack the boat	literal	0
+The debate sharpened	metaphorical	1
+God will remit their sins	literal	0
+He moderated his tone when the students burst out in tears	literal	0
+the land rejuvenated	literal	0
+she noted everything the teacher said that morning	literal	0
+Can you taste the garlic?	literal	0
+The meteorologists are expecting rain for tomorrow	literal	0
+The army tried to co-opt peasants into civil defence groups	literal	0
+The wheat headed early this year	metaphorical	1
+The actress abused the policeman who gave her a parking ticket.	metaphorical	1
+We ascended the mountain.	literal	0
+Islam is fermenting Africa	metaphorical	1
+steamroller the opposition	metaphorical	1
+I'll walk you to your car	literal	0
+I assume his train was late	literal	0
+The bus thundered down the road.	metaphorical	1
+Actions talk louder than words.	metaphorical	1
+he huffed and puffed as he made his way up the mountain	literal	0
+We exploded the nuclear bomb	literal	0
+"In the desert, you get dehydrated very quickly."	literal	0
+Our business was hurt by the new competition	literal	0
+Chanel designed the famous suit.	literal	0
+The host seated me next to Mrs. Smith	literal	0
+Oil fires the furnace	literal	0
+You must factor in the recent developments	literal	0
+wallow in your sorrows	metaphorical	1
+The children were thrilled at the prospect of going to the movies	literal	0
+her mood changes in accordance with the weather	literal	0
+They clamored the mayor into building a new park	literal	0
+They voted aid for the underdeveloped countries in Asia	literal	0
+commit a random act of kindness	literal	0
+She captured all the men's hearts	metaphorical	1
+the water formed little beads	literal	0
+He relaxed in the hot tub	literal	0
+The Crown Prince was acknowledged as the true heir to the throne	literal	0
+The river thundered below.	metaphorical	1
+The FBI seized the drugs	literal	0
+The tanker fueled in Bahrain	literal	0
+many valuable nutrients are refined out of the foods in our modern diet	literal	0
+He supplicated the King for clemency	literal	0
+He lured me into temptation	literal	0
+The bird flapped its wings	literal	0
+I invited them to a restaurant	literal	0
+Some nice results emerged from the study	metaphorical	1
+The effect vanished when day broke	literal	0
+He inclined his ear to the wise old man	literal	0
+His political ideas color his lectures	metaphorical	1
+The vessel was shipwrecked.	literal	0
+He pumped bullets into the dummy.	metaphorical	1
+Fire had devoured our home	metaphorical	1
+Everything redounded to his glory.	metaphorical	1
+She tended to blast when speaking into a microphone	metaphorical	1
+This sum will buy you a ride on the train	literal	0
+He replaced the old razor blade	literal	0
+The cold pierced her bones.	metaphorical	1
+Please acquaint your colleagues of your plans to move.	literal	0
+They bind their books in leather.	literal	0
+He was showered with praise	metaphorical	1
+He pieced at the sandwich all morning	metaphorical	1
+This writer really fractures the language.	metaphorical	1
+He co-opted the criticism and embraced it	literal	0
+I wish that Christmas were over.	literal	0
+I upgraded to First Class when Coach Class was overbooked	literal	0
+Too much cutting dulls the knife's edge	literal	0
+Who is governing the country now?	literal	0
+The bank demanded payment of the loan	literal	0
+One should not exhaust one's savings.	metaphorical	1
+This story will grab you	metaphorical	1
+hundreds of miles were railed out here	literal	0
+Dozens of incidents of wife beatings are reported daily in this city	literal	0
+The hunters traced the deer into the woods	literal	0
+Age and experience mellowed him over the years	literal	0
+The distinction between the two theories blurred	metaphorical	1
+The bad news shook her hopes.	metaphorical	1
+Did your latest book appear yet?	literal	0
+"When the officers show up, the soldiers have to salute"	literal	0
+right a wrongs done to the victims of the Holocaust	literal	0
+The terrible news ended our hopes that he had survived.	literal	0
+reseat Carnegie Hall	literal	0
+The dentist cleaned my teeth	literal	0
+load the bags onto the trucks	literal	0
+The husband drinks and beats his wife	literal	0
+This student somehow doesn't belong	literal	0
+This bike scales only 25 pounds	literal	0
+Where do these books belong?	literal	0
+He dashed the plate against the wall	literal	0
+The tight shoes and perspiration blistered her feet.	literal	0
+"`Now push hard,' said the doctor to the woman"	literal	0
+Menuhin's playing was attended by a 15-minute standing ovation	literal	0
+The mud had consolidated overnight	literal	0
+She could not recapture that feeling of happiness.	metaphorical	1
+He provides for his large family by working three jobs	literal	0
+"Goya wanted to portray his mistress, the Duchess of Alba"	literal	0
+We rotate the crops so as to maximize the use of the soil	literal	0
